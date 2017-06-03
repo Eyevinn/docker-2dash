@@ -8,7 +8,7 @@ Make sure you have Docker installed and can run Docker containers on your comput
 install the helper script
 
 ```
-# curl -L https://github.com/eyevinn/docker-2dash/releases/download/mp4todash > /usr/local/bin/mp4todash
+# curl -L https://github.com/Eyevinn/docker-2dash/releases/download/v0.0.1/mp4todash > /usr/local/bin/mp4todash
 ```
 
 This is a helper script that runs the container with a pre-defined set of arguments to start the container
