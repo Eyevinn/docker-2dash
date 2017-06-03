@@ -1,2 +1,2 @@
 #!/bin/sh
-docker run -v `pwd`:/mnt/ eyevinntechnology/2dash:0.0.1 "$@"
+docker run -v `pwd`:/mnt/ eyevinntechnology/2dash:0.0.2 "$@"
